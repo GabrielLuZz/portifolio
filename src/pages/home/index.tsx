@@ -89,12 +89,6 @@ export const Home = (): JSX.Element => {
               <Text as="h2" type="heading4" color="grey4">
                 My projects
               </Text>
-              <Text as="p" type="body1" color="grey2">
-                Projects created at{" "}
-                <Text as="span" color="brand5">
-                  Kenzie Academy
-                </Text>
-              </Text>
             </ProjectsAreaSocialMediaMessage>
             <ProjectsAreaContent>
               <Project />
