@@ -4,6 +4,6 @@ export const userData = {
   linkedinUser: "gabrielluzz",
   whatsappNumber: "+5573981208110",
   emailUser: "gabrielluzdev7@gmail.com.br",
-  instagramUser: "bielpluz",
+  instagramUser: "",
   facebookUser: "",
 };
